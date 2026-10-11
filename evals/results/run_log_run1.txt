@@ -1,0 +1,123 @@
+single  r0 L-01 REUSE_EXISTING   all_ok=False     3621 ms llm=2 tools=5 fixes=0
+single  r0 L-02 REVIEW           all_ok=True      3582 ms llm=2 tools=5 fixes=0
+single  r0 L-03 REVIEW           all_ok=True      3074 ms llm=2 tools=5 fixes=0
+single  r0 L-04 REVIEW           all_ok=True      3386 ms llm=2 tools=5 fixes=0
+single  r0 L-05 BUDGET_EXCEPTION all_ok=True     10544 ms llm=4 tools=5 fixes=0
+single  r0 L-06 CLARIFY          all_ok=True      3078 ms llm=2 tools=5 fixes=0
+single  r0 L-07 REVIEW           all_ok=True      3277 ms llm=2 tools=5 fixes=0
+single  r0 L-08 REUSE_EXISTING   all_ok=True      2583 ms llm=2 tools=5 fixes=0
+single  r0 L-09 REVIEW           all_ok=True      3667 ms llm=2 tools=5 fixes=0
+single  r0 L-10 REUSE_EXISTING   all_ok=False     3274 ms llm=2 tools=5 fixes=0
+single  r1 L-01 REUSE_EXISTING   all_ok=False     3667 ms llm=2 tools=5 fixes=0
+single  r1 L-02 REVIEW           all_ok=True      4107 ms llm=2 tools=6 fixes=0
+single  r1 L-03 REVIEW           all_ok=True     14598 ms llm=4 tools=5 fixes=0
+single  r1 L-04 REVIEW           all_ok=True     13339 ms llm=3 tools=4 fixes=0
+single  r1 L-05 BUDGET_EXCEPTION all_ok=True     10148 ms llm=4 tools=5 fixes=0
+single  r1 L-06 CLARIFY          all_ok=True      3677 ms llm=2 tools=5 fixes=0
+single  r1 L-07 REVIEW           all_ok=True      3304 ms llm=2 tools=5 fixes=0
+single  r1 L-08 REUSE_EXISTING   all_ok=True      3258 ms llm=2 tools=5 fixes=0
+single  r1 L-09 REVIEW           all_ok=True      3996 ms llm=2 tools=5 fixes=0
+single  r1 L-10 REUSE_EXISTING   all_ok=False     3172 ms llm=2 tools=5 fixes=0
+single  r2 L-01 REUSE_EXISTING   all_ok=False     3386 ms llm=2 tools=5 fixes=0
+single  r2 L-02 REVIEW           all_ok=True      3491 ms llm=2 tools=5 fixes=0
+single  r2 L-03 REVIEW           all_ok=True     13136 ms llm=3 tools=4 fixes=0
+single  r2 L-04 REVIEW           all_ok=True     13470 ms llm=3 tools=4 fixes=0
+single  r2 L-05 BUDGET_EXCEPTION all_ok=True     10240 ms llm=4 tools=5 fixes=0
+single  r2 L-06 CLARIFY          all_ok=True      3685 ms llm=2 tools=5 fixes=0
+single  r2 L-07 REVIEW           all_ok=True      3878 ms llm=2 tools=5 fixes=0
+single  r2 L-08 REUSE_EXISTING   all_ok=True      3602 ms llm=2 tools=5 fixes=0
+single  r2 L-09 REVIEW           all_ok=True      3152 ms llm=2 tools=5 fixes=0
+single  r2 L-10 REUSE_EXISTING   all_ok=False     3199 ms llm=2 tools=5 fixes=0
+staged  r0 L-01 PROCEED          all_ok=True      5332 ms llm=3 tools=5 fixes=0
+staged  r0 L-02 REVIEW           all_ok=True     14067 ms llm=4 tools=5 fixes=0
+staged  r0 L-03 REVIEW           all_ok=True     13161 ms llm=3 tools=4 fixes=0
+staged  r0 L-04 REVIEW           all_ok=False     8208 ms llm=4 tools=5 fixes=0
+staged  r0 L-05 BUDGET_EXCEPTION all_ok=True      4806 ms llm=3 tools=5 fixes=0
+staged  r0 L-06 CLARIFY          all_ok=True      6421 ms llm=3 tools=5 fixes=0
+staged  r0 L-07 REVIEW           all_ok=True      5019 ms llm=3 tools=5 fixes=0
+staged  r0 L-08 REUSE_EXISTING   all_ok=True      4783 ms llm=3 tools=6 fixes=0
+staged  r0 L-09 REVIEW           all_ok=True     14325 ms llm=4 tools=5 fixes=0
+staged  r0 L-10 PROCEED          all_ok=True     13399 ms llm=3 tools=4 fixes=0
+staged  r1 L-01 REUSE_EXISTING   all_ok=False    11660 ms llm=5 tools=5 fixes=0
+staged  r1 L-02 REVIEW           all_ok=True      5298 ms llm=3 tools=5 fixes=0
+staged  r1 L-03 REVIEW           all_ok=True      4756 ms llm=3 tools=5 fixes=0
+staged  r1 L-04 REVIEW           all_ok=True      5588 ms llm=3 tools=5 fixes=0
+staged  r1 L-05 BUDGET_EXCEPTION all_ok=True      4812 ms llm=3 tools=5 fixes=0
+staged  r1 L-06 CLARIFY          all_ok=True     14712 ms llm=4 tools=5 fixes=0
+staged  r1 L-07 REVIEW           all_ok=True     13294 ms llm=3 tools=4 fixes=0
+staged  r1 L-08 REUSE_EXISTING   all_ok=True     11532 ms llm=5 tools=5 fixes=0
+staged  r1 L-09 REVIEW           all_ok=True      7546 ms llm=3 tools=5 fixes=0
+staged  r1 L-10 REUSE_EXISTING   all_ok=False     4410 ms llm=3 tools=5 fixes=0
+staged  r2 L-01 PROCEED          all_ok=True      5370 ms llm=3 tools=5 fixes=0
+staged  r2 L-02 REVIEW           all_ok=True      5815 ms llm=3 tools=5 fixes=0
+staged  r2 L-03 REVIEW           all_ok=True     14596 ms llm=4 tools=5 fixes=0
+staged  r2 L-04 REVIEW           all_ok=True     13130 ms llm=3 tools=4 fixes=0
+staged  r2 L-05 BUDGET_EXCEPTION all_ok=True     12706 ms llm=5 tools=5 fixes=0
+staged  r2 L-06 CLARIFY          all_ok=True      6876 ms llm=3 tools=6 fixes=0
+staged  r2 L-07 REVIEW           all_ok=True      5744 ms llm=3 tools=5 fixes=0
+staged  r2 L-08 REUSE_EXISTING   all_ok=True      5402 ms llm=3 tools=5 fixes=0
+staged  r2 L-09 REVIEW           all_ok=True      5835 ms llm=3 tools=5 fixes=0
+staged  r2 L-10 PROCEED          all_ok=True     14617 ms llm=4 tools=5 fixes=0
+rules   r0 L-01 PROCEED          all_ok=True        24 ms llm=0 tools=4 fixes=0
+rules   r0 L-02 REVIEW           all_ok=True        32 ms llm=0 tools=4 fixes=0
+rules   r0 L-03 REVIEW           all_ok=True        31 ms llm=0 tools=4 fixes=0
+rules   r0 L-04 REVIEW           all_ok=True        30 ms llm=0 tools=4 fixes=0
+rules   r0 L-05 BUDGET_EXCEPTION all_ok=True        11 ms llm=0 tools=4 fixes=0
+rules   r0 L-06 CLARIFY          all_ok=True        10 ms llm=0 tools=4 fixes=0
+rules   r0 L-07 REVIEW           all_ok=True        24 ms llm=0 tools=4 fixes=0
+rules   r0 L-08 PROCEED          all_ok=False       32 ms llm=0 tools=4 fixes=0
+rules   r0 L-09 REVIEW           all_ok=True        31 ms llm=0 tools=4 fixes=0
+rules   r0 L-10 PROCEED          all_ok=True        31 ms llm=0 tools=4 fixes=0
+rules   r1 L-01 PROCEED          all_ok=True        30 ms llm=0 tools=4 fixes=0
+rules   r1 L-02 REVIEW           all_ok=True        31 ms llm=0 tools=4 fixes=0
+rules   r1 L-03 REVIEW           all_ok=True        34 ms llm=0 tools=4 fixes=0
+rules   r1 L-04 REVIEW           all_ok=True        31 ms llm=0 tools=4 fixes=0
+rules   r1 L-05 BUDGET_EXCEPTION all_ok=True        30 ms llm=0 tools=4 fixes=0
+rules   r1 L-06 CLARIFY          all_ok=True        10 ms llm=0 tools=4 fixes=0
+rules   r1 L-07 REVIEW           all_ok=True        20 ms llm=0 tools=4 fixes=0
+rules   r1 L-08 PROCEED          all_ok=False       31 ms llm=0 tools=4 fixes=0
+rules   r1 L-09 REVIEW           all_ok=True        24 ms llm=0 tools=4 fixes=0
+rules   r1 L-10 PROCEED          all_ok=True        10 ms llm=0 tools=4 fixes=0
+rules   r2 L-01 PROCEED          all_ok=True        13 ms llm=0 tools=4 fixes=0
+rules   r2 L-02 REVIEW           all_ok=True        23 ms llm=0 tools=4 fixes=0
+rules   r2 L-03 REVIEW           all_ok=True        23 ms llm=0 tools=4 fixes=0
+rules   r2 L-04 REVIEW           all_ok=True         8 ms llm=0 tools=4 fixes=0
+rules   r2 L-05 BUDGET_EXCEPTION all_ok=True        22 ms llm=0 tools=4 fixes=0
+rules   r2 L-06 CLARIFY          all_ok=True        11 ms llm=0 tools=4 fixes=0
+rules   r2 L-07 REVIEW           all_ok=True        26 ms llm=0 tools=4 fixes=0
+rules   r2 L-08 PROCEED          all_ok=False       15 ms llm=0 tools=4 fixes=0
+rules   r2 L-09 REVIEW           all_ok=True        29 ms llm=0 tools=4 fixes=0
+rules   r2 L-10 PROCEED          all_ok=True        27 ms llm=0 tools=4 fixes=0
+
+# Architecture comparison
+
+Model: `gemini-3.5-flash-lite` | cases: 10 | repeats: 3
+
+| Metric | single | staged | rules |
+|---|---:|---:|---:|
+| Cases meeting all 4 criteria | 24/30 | 27/30 | 27/30 |
+| Correct next action | 24/30 | 28/30 | 27/30 |
+| Policy followed (approvals + flags) | 30/30 | 29/30 | 27/30 |
+| Human escalation correct | 30/30 | 30/30 | 30/30 |
+| Evidence grounded in tool results | 30/30 | 30/30 | 30/30 |
+| Public cases meeting minimum checks | 18/18 | 18/18 | 18/18 |
+| Agent gathered all evidence itself | 27/30 | 26/30 | 0/30 |
+| Guard corrections (LLM policy misses) | 0 | 0 | 0 |
+| Avg latency (ms) | 5486 | 8774 | 23 |
+| p95 latency (ms) | 13339 | 14596 | 32 |
+| Avg LLM calls | 2.37 | 3.4 | 0 |
+| Avg tool calls | 4.93 | 4.93 | 4 |
+
+## Failures and guard corrections
+- single L-01 (REQ-1001): action=REUSE_EXISTING; criteria not met
+- single L-10 (REQ-1010): action=REUSE_EXISTING; criteria not met
+- single L-01 (REQ-1001): action=REUSE_EXISTING; criteria not met
+- single L-10 (REQ-1010): action=REUSE_EXISTING; criteria not met
+- single L-01 (REQ-1001): action=REUSE_EXISTING; criteria not met
+- single L-10 (REQ-1010): action=REUSE_EXISTING; criteria not met
+- staged L-04 (REQ-1004): action=REVIEW; criteria not met
+- staged L-01 (REQ-1001): action=REUSE_EXISTING; criteria not met
+- staged L-10 (REQ-1010): action=REUSE_EXISTING; criteria not met
+- rules L-08 (REQ-1008): action=PROCEED; criteria not met
+- rules L-08 (REQ-1008): action=PROCEED; criteria not met
+- rules L-08 (REQ-1008): action=PROCEED; criteria not met
